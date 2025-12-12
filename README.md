@@ -1,15 +1,5 @@
 # Nanoka
+Hi! 👋 Nanoka (16 y.o.) - Student Developer from Japan. 
 
-I’m Nanoka — a 16-year-old developer and student from Japan.
+My stack is mainly JS & TS. Check out my repos for what I'm currently working on!
 
-Languages
-- Japanese: native
-- English: intermediate
-
-Skill
-- JavaScript
-- TypeScript
-
-Contact
-- GitHub: https://github.com/nanokrr
-- Discord: @Nanokrr
